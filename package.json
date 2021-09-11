@@ -1,5 +1,5 @@
 {
-  "name": "Build a JavaScript Calculator",
+  "name": "Build-a-JavaScript-Calculator",
   "version": "0.0.1",
   "scripts": {
     "dev": "vite",
